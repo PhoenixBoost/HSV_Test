@@ -1,0 +1,5 @@
+Simulated Aimbot accuracy: 0.27%
+Total colors: 118567
+Desired colors: 322
+Undesired colors: 118245
+Undesired colors to avoid for target accuracy (0%): 118567.00

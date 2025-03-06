@@ -1,0 +1,7 @@
+certifi==2025.1.31
+mss==10.0.0
+numpy==2.2.3
+opencv-python==4.11.0.86
+opencv-python-headless==4.11.0.86
+pytube==15.0.0
+yt-dlp==2025.2.19
